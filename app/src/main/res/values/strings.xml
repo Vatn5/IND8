@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ind 8</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="ir">Ir a la Segunda Actividad</string>
+    <string name="volver">Volver</string>
+    <string name="sitio">Ir al Sitio</string>
+</resources>
